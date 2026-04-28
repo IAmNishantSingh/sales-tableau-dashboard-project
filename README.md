@@ -8,10 +8,10 @@ An interactive data visualization project built with Tableau to analyze sales pe
 ## 📸 Dashboard Previews
 
 ### Sales Dashboard
-![Sales Dashboard](Sales_Dashboard.png)
+![Sales Dashboard](Dashboard_images/Sales_Dashboard.png)
 
 ### Customer Dashboard
-![Customer Dashboard](Customer_Dashboard.png)
+![Customer Dashboard](Dashboard_images/Customer_Dashboard.png)
 
 ## 📁 Dataset
 The data used for these dashboards is stored in the `dataset` directory and includes the following files:
